@@ -29,9 +29,11 @@
 ## 3. 페이지 이미지
 
 배포 및 og태그
+<br>
 ![image](https://user-images.githubusercontent.com/96713050/178718057-89e18fd1-e261-4b1f-858f-7c1ec8dce0d1.png)
 
 팬명록
+<br>
 <img width="720" alt="스크린샷 2022-07-13 오후 7 53 52" src="https://user-images.githubusercontent.com/96713050/178718090-8ff77ae5-1e3a-4fda-9544-04797d7c49fd.png">
 
 
